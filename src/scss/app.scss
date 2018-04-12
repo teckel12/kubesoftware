@@ -1,0 +1,16 @@
+@import "base/base";
+@import "components/components";
+
+body, html {
+  magin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  padding: 1rem;
+}
+
+* {
+  box-size: border-box;
+}
